@@ -1,0 +1,5 @@
+toggle numpad layer depend on num lock on/off
+
+trigger rgb light for num lock on indication
+
+backlight setting should be retained after power off/on
