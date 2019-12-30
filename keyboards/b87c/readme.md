@@ -2,8 +2,9 @@
 
 A TKL keyboard with RGB
 
-Keyboard Maintainer: QMK Community  
-Hardware Supported: B.87 PCB  
+* Keyboard Maintainer: QMK Community  
+* Hardware Supported: B.87 PCB  
+* Software modifications based on winkeyless\bminiex
 
 Make example for this keyboard (after setting up your build environment):
 

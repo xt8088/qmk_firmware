@@ -1,5 +1,4 @@
-#ifndef OCD40_H
-#define OCD40_H
+#pragma once
 
 #include "quantum.h"
 #include "led.h"
@@ -42,5 +41,3 @@ inline void ocd40_led_toggle(void)  { DDRB ^=  (1<<2); PORTB &= ~(1<<2); }
     { k20, k21, k22, k23, k24, k25, k26, k27, k28, k29, k2a, k2b }, \
     { k30, k31, k32, k33, k34, k35, k36, k37, k38, k39, k3a, k3b } \
 }
-
-#endif
